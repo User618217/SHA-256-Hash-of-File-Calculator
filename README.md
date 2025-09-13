@@ -7,4 +7,8 @@ Note: Compile with -std=c++11 on GCC.
 2. Microsoft Windows 10 Home 22H2
 ### Compilers:
 1. Microsoft Visual Studio 2010 Professional (10.0.30319)
-2. TDM GCC 4.92
+2. TDM GCC 4.9.2
+## What's the function
+Running SHA-256 Hash of given filename.
+#### Do not give reserved names like "con"
+This may crash the program.
