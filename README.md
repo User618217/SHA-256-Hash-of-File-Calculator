@@ -20,7 +20,7 @@ Slow (Compared to other hash-of-file calculators).
 It is open-source -> You can trust it.  
 It can help you learn how SHA-256 works.
 ## What is hash
-1. Same input -> Same output.
-2. Different input -> Different output.
-3. Known output -> You can not derive input.
-4. Same output size.
+1. The same input always produces the same output.
+2. A different input produces a different output.
+3. You cannot derive the input from a known output.
+4. The output is always the same size.
