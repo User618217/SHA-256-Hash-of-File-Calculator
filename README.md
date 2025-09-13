@@ -1,8 +1,8 @@
-# SHA-256-of-File-Calculator
+# **SHA-256-of-File Calculator**
 A C++ 11 SHA-256 of File Calculator  
 ### Note: Compile with -std=c++11 on GCC.   
 Visual Studio 2015 automatically uses C++11.
-## This code is tested on:  
+## **This code has been tested on:**  
 ### Platforms:  
 1. Microsoft Windows 10 Professional 21H2
 2. Microsoft Windows 10 Home 22H2
