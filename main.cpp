@@ -110,7 +110,7 @@ private:
         uint32_t g = h[6];
         uint32_t hh = h[7];
         
-        // Main loop
+        // Compression loop
         for (int i = 0; i < 64; ++i) {
             uint32_t S1 = rightrotate(e, 6) ^ rightrotate(e, 11) ^ rightrotate(e, 25);
             uint32_t ch = (e & f) ^ ((~e) & g);
